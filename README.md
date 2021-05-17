@@ -1,4 +1,4 @@
-# React_Tesla_Clone
+# React_TeslaWebsite_HomePage_Clone
 
 Created Tesla Home Page Clone website using following web technologies
 
